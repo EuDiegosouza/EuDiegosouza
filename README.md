@@ -103,6 +103,8 @@ Sou apaixonado por tecnologia e desenvolvimento de software. Trabalho com **fron
 
 
 ---
+<br>
+<br>
 
 ### 📈 Atividade Recente
 
