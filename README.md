@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack | Criador de Projetos Web`**
 
-Sou apaixonado por tecnologia e desenvolvimento de software. Trabalho com **front-end e back-end**, explorando frameworks modernos e boas práticas de programação. Meu objetivo é criar soluções escaláveis e compartilhar conhecimento com a comunidade.
+Sou apaixonado por tecnologia e desenvolvimento de software. Estudo *front-end e back-end**, explorando frameworks modernos e boas práticas de programação. Meu objetivo é criar soluções escaláveis e compartilhar conhecimento com a comunidade.
 
 ---
 
